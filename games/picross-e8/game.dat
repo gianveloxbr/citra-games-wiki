@@ -13,3 +13,13 @@ release_date = "2017-12-21"
 title = "00040000001CE000"
 region = "eur"
 release_date = "2017-12-21"
+
+[[ testcases ]]
+title = "00040000001CF700"
+compatibility = "1"
+date = "2018-08-14"
+version = "HEAD-20cb8f6"
+author = "veloxSZ"
+cpu = "core2duo-e7500 @ 2.93GHz"
+gpu = "GeForce 9500 GT"
+os = "Windows 10 Entreprise 2016 LTSB"
