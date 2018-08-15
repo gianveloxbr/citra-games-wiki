@@ -8,13 +8,3 @@ game_type = "eshop"
 title = "0004000000154500"
 region = "usa"
 release_date = "2015-04-02"
-
-[[ testcases ]]
-title = "0004000000154500"
-compatibility = "1"
-date = "2018-08-15"
-version = "HEAD-20cb8f6"
-author = "veloxSZ"
-cpu = "core2duo-e7500 @ 2.93GHz"
-gpu = "GeForce 9500 GT"
-os = "Windows 10 Entreprise 2016 LTSB"
