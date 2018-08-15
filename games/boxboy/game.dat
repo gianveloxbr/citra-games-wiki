@@ -1,0 +1,10 @@
+title = "BOXBOY!"
+description = "BoxBoy!, is a role-playing video game developed by Silicon Studio for the Nintendo 3DS handheld video game console."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000154500"
+region = "usa"
+release_date = "2015-04-02"
